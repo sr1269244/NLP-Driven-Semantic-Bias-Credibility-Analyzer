@@ -2,6 +2,8 @@
 
 A production-ready web application that analyzes news articles for sentiment, bias, credibility, and semantic similarity using state-of-the-art NLP models.
 
+🚀 **Live Demo:** [nlp-driven-semantic-bias-credibility-analyzer-sr.streamlit.app](https://nlp-driven-semantic-bias-credibility-analyzer-sr.streamlit.app)
+
 ![Python](https://img.shields.io/badge/python-3.8+-blue.svg)
 ![Streamlit](https://img.shields.io/badge/streamlit-1.31.0-red.svg)
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
